@@ -34,5 +34,5 @@ This model accurately assessed retinal fundus image quality in a comparable mann
 * **Coyner AS**, Swan R, Campbell JP, Ostmo S, Brown JM, Kalpathy-Cramer J, Kim SJ, Jonas KE, Chan RVP, Chiang MF. Automated Fundus Image Quality Assessment in Retinopathy of Prematurity Using Deep Convolutional Neural Networks. Ophthalmol Retina. 2019 May;3(5):444-450. doi: 10.1016/j.oret.2019.01.015.
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.oret.2019.01.015-blue.svg)](https://doi.org/10.1016/j.oret.2019.01.015)
 
-* **Coyner AS**, Swan R, Brown JM, Kalpathy-Cramer J, Kim SJ, Campbell JP, Jonas KE, Ostmo S, Chan RVP, Chiang MF. Deep Learning for Image Quality Assessment of Fundus Images in Retinopathy of Prematurity. AMIA Annu Symp Proc. 2018 Dec 5;2018:1224-1232.
+* **Coyner AS**, Swan R, Brown JM, Kalpathy-Cramer J, Kim SJ, Campbell JP, Jonas KE, Ostmo S, Chan RVP, Chiang MF. Deep Learning for Image Quality Assessment of Fundus Images in Retinopathy of Prematurity. AMIA Annu Symp Proc. 2018 Dec 5;2018:1224-1232.  
 [![PMCID](https://img.shields.io/badge/PMCID-PMC6371336-green.svg)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371336/)
